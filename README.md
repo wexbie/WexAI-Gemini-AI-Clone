@@ -2,6 +2,9 @@
 
 Bu, HTML, CSS ve biraz JavaScript kullanılarak oluşturulmuş bir Gemini AI kopyasıdır. Önceden Bard modeliyle bildiğimiz ve şuanki haliyle epey ünlü olan gemini ai klonunu deneyimleyin
 
+# Demo
+https://664cceebcf6c270ff8e65253--musical-centaur-db69c0.netlify.app/
+
 ## Nasıl Çalıştırılır
 
 1. Depoyu klonlayın ya da indirin.
