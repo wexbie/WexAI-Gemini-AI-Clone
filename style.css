@@ -730,9 +730,13 @@ b {
         transform: translateX(0);
         z-index: 9998;
     }
+
+    /* Sidenav açıldığında sadece wexbody sınıfına kararma efekti */
+.wexbody.sidenav-open::before {
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
 }
-
-
+    
 @media (max-width: 960px) {
 
     #menuButton {
