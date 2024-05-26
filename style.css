@@ -67,6 +67,9 @@ b {
 
 .sidenav-open {
     transform: translateX(0);
+    .wexbody {
+        opacity: 0.56;
+    }
 }
 
 .sidenav-closed {
