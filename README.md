@@ -6,7 +6,7 @@
 Bu, HTML, CSS ve biraz JavaScript kullanılarak oluşturulmuş bir Gemini AI kopyasıdır. Önceden Bard modeliyle bildiğimiz ve şuanki haliyle epey ünlü olan gemini ai klonunu deneyimleyin
 
 ## Demo
-[WEXAI Version 0.6](wex-ai-1.vercel.app)
+[WEXAI Version 0.6](https://wex-ai-1.vercel.app)
 
 ## Nasıl Çalıştırılır
 
