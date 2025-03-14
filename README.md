@@ -1,12 +1,12 @@
 # Güncelleme Geldi
-https://wexbie.pythonanywhere.com/
+[WEXAI Version 1.3](https://wexbie.pythonanywhere.com/)
 
 ## Gemini AI Klonu
 
 Bu, HTML, CSS ve biraz JavaScript kullanılarak oluşturulmuş bir Gemini AI kopyasıdır. Önceden Bard modeliyle bildiğimiz ve şuanki haliyle epey ünlü olan gemini ai klonunu deneyimleyin
 
 ## Demo
-[https://664cceebcf6c270ff8e65253--musical-centaur-db69c0.netlify.app/](wex-ai-1.vercel.app)
+[WEXAI Version 0.6](wex-ai-1.vercel.app)
 
 ## Nasıl Çalıştırılır
 
