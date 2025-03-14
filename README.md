@@ -1,9 +1,12 @@
-# Gemini AI Klonu
+# Güncelleme Geldi
+https://wexbie.pythonanywhere.com/
+
+## Gemini AI Klonu
 
 Bu, HTML, CSS ve biraz JavaScript kullanılarak oluşturulmuş bir Gemini AI kopyasıdır. Önceden Bard modeliyle bildiğimiz ve şuanki haliyle epey ünlü olan gemini ai klonunu deneyimleyin
 
-# Demo
-[https://664cceebcf6c270ff8e65253--musical-centaur-db69c0.netlify.app/](https://664cd08fe1ada8073fed5ffb--storied-douhua-9f55f7.netlify.app/)
+## Demo
+[https://664cceebcf6c270ff8e65253--musical-centaur-db69c0.netlify.app/](wex-ai-1.vercel.app)
 
 ## Nasıl Çalıştırılır
 
@@ -41,13 +44,3 @@ Ses Tanıma ve Metin Okuma: Kullanıcıların sesli komutlarını tanır ve yan�
 - Etkileşimli UI: Kullanıcıların kolayca etkileşime geçebileceği modern ve sezgisel bir kullanıcı arayüzü.
 
 - Güvenli Veri İşleme: Kullanıcı verilerini güvenli bir şekilde işleyip saklama yetenekleri.
-
-## Gelecek Planları
-
-- Makine Öğrenimi Entegrasyonu: Gemini AI tarafından verilen API entegresi.
-
-- Kapsamlı Veri Analizi: Kullanıcıya özel cevap oluşturma.
-
-- Yeni Dillerin Desteklenmesi: Daha fazla dil desteği ekleyerek global kullanıcı tabanını genişletmek ( Şuanlık sadece Türkçe dili desteklenmektedir ).
-
-- Gelişmiş Güvenlik: Kullanıcıya verilen API yi .env dosyasında saklamak.
