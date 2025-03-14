@@ -21,11 +21,6 @@ Bu, HTML, CSS ve biraz JavaScript kullanılarak oluşturulmuş bir Gemini AI kop
 -JavaScript
 
 
-## Kodlayan
-
-Bu Gemini AI klonu Eyüp Aslan tarafından oluşturuldu.
-
-
 ## Özellikler
 
 - Duyarlı Tasarım: Farklı ekran boyutlarına uyum sağlayan kullanıcı dostu arayüz.
